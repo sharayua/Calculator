@@ -36,6 +36,7 @@ int main(void) {
 	res = add(num1, num2);
 	else
 	printf("\nWrong choice!");
+
 	printf("\nResult :: %d",res);
 	return EXIT_SUCCESS;
 }
